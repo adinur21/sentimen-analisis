@@ -6,7 +6,7 @@ Magiter Teknik Informatik - Universitas Islam Negeri Maulana Malik Ibrahim Malan
 
 Dosen : Prof. Suhartono
 
-Daftar Purtaka :
+Daftar Pustaka :
 1. R – https://www.r-project.org/
 2. NRC Emotion lexicon – http://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm
 3.	Natural Language Processing (NLP) – https://en.wikipedia.org/wiki/Natural_language_processing
